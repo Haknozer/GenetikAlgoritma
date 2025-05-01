@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOqkIPjYLB8zPYvQv5w4WBnt/LZpEm6XCQzVjDs9zsj3KqC9XVLAMPX+cTIbynGuZIf/gkaSf3sT2Ket6Zg5Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hakan\\source\\repos\\genetik_algoritma\\genetik_algoritma\\genetik_algoritma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hakan\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

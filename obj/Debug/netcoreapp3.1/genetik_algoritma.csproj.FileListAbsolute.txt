@@ -1,0 +1,6 @@
+C:\Users\hakan\source\repos\genetik_algoritma\genetik_algoritma\obj\Debug\netcoreapp3.1\genetik_algoritma.Form1.resources
+C:\Users\hakan\source\repos\genetik_algoritma\genetik_algoritma\obj\Debug\netcoreapp3.1\genetik_algoritma.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\genetik_algoritma\genetik_algoritma\obj\Debug\netcoreapp3.1\genetik_algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\genetik_algoritma\genetik_algoritma\obj\Debug\netcoreapp3.1\genetik_algoritma.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\genetik_algoritma\genetik_algoritma\obj\Debug\netcoreapp3.1\genetik_algoritma.AssemblyInfo.cs
+C:\Users\hakan\source\repos\genetik_algoritma\genetik_algoritma\obj\Debug\netcoreapp3.1\genetik_algoritma.csproj.CoreCompileInputs.cache
